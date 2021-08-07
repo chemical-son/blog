@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T03:12:16.830Z" agent="5.0 (X11)" etag="Hy6PV_HwSKRhdH6-5VOk" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T03:13:11.929Z" agent="5.0 (X11)" etag="ovJeeDt-gH9yz1qP23QD" version="14.9.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1376" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -37,14 +37,8 @@
         <mxCell id="rOAvSfCHZSBNCXhbqOI2-1" value="phone integer " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="160" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rOAvSfCHZSBNCXhbqOI2-2" value="subscribers_id&amp;nbsp; NULLABLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="180" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rOAvSfCHZSBNCXhbqOI2-3" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="180" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="rOAvSfCHZSBNCXhbqOI2-5" value="api_token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="200" width="70" height="20" as="geometry" />
+          <mxGeometry x="-60" y="180" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
