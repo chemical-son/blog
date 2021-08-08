@@ -27,6 +27,7 @@ class AuthController extends Controller
             'phone' => $request->phone
         ]);
         
+        //using sanctum to createToken
         $token = $user->createToken('key')->plainTextToken;
         return response(['user' => $user, 'token' => $token], 201);
     }
